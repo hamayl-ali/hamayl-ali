@@ -17,6 +17,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2300&pause=1000&color=C084FC&center=true&vCenter=true&width=950&lines=🌸+Welcome+to+My+GitHub;👨‍💻+Hamayl+Ali;🛡️+Cybersecurity+Enthusiast;☁️+Cloud+Security+Learner;⚡+Building+Projects+That+Matter;💜+Always+Learning+Something+New" />
 </p>
+```ts
+const hamayl = {
+  title: "Cybersecurity Enthusiast",
+  stack: ["C++","Python","JavaScript","Java","PowerShell","Rust","PHP","HTML","CSS","React","Next.js","Angular","Node.js","Express","Django","Flask","FastAPI","Laravel","PyTorch","NumPy","Pandas","Scikit-learn","Matplotlib","SciPy","MLflow","Cisco","Splunk"],
+  launchedProjects: 1,
+  certifications: "Learning",
+  status: "Building projects daily",
+  openTo: "Cybersecurity internships & remote opportunities"
+}
+```
 
 
 ## 📌 Featured Project
