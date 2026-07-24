@@ -1,17 +1,18 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamayl-ali&label=Profile%20views&color=blue&style=flat" alt="hamayl-ali" /> </p>
+# Hi 👋, I'm Hamayl Ali
 
-<h1 align="center">Hi 👋, I'm Hamayl</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=220&section=header&text=Hamayl%20Ali&fontColor=ffffff&fontSize=48&animation=twinkling&desc=Cybersecurity%20Enthusiast"/>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamayl-ali&theme=tokyonight" alt="hamayl-ali" /></a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Building+Security+Projects;Learning+Cloud+%26+DevSecOps;Always+Learning"/>
+</p>
 
-- 🔭 I'm currently working on **AI-threat-detection**
-- 🌱 I'm currently learning **ML, Cloud Security**
-- 👯 I'm looking to collaborate on **Cloud Security, Security Tools, SIEM and Analysis **
-- 🤝 I'm looking for help with **Machine Learning integration**
-- 💬 Ask me about **Anything**
-- 📫 How to reach me **hamaylalikhan6@gmail.com**
-- ⚡ Fun fact **I like anime**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hamayl-ali&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/hamayl-ali?style=for-the-badge&color=7F3FBF"/>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
