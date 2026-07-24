@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hamayl Ali
+# I'm Hamayl Ali
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=220&section=header&text=Hamayl%20Ali&fontColor=ffffff&fontSize=48&animation=twinkling&desc=Cybersecurity%20Enthusiast"/>
@@ -10,7 +10,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=hamayl-ali&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/hamayl-ali?style=for-the-badge&color=7F3FBF"/>
+<img src="https://img.shields.io/github/followers/hamayl-ali?color=blueviolet"/>
 </p>
 
 
