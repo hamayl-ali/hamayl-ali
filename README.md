@@ -72,29 +72,84 @@
 <img src="https://img.shields.io/badge/Neovim-7aa2f7.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/><img src="https://img.shields.io/badge/Proficiency-85%25-green?style=flat-square" alt="85%"/>
 </p>
 
-<h3 align="left">Featured Projects:</h3>
 
-<h4>📁 <a href="https://github.com/hamayl-ali/Email-Spoof-Detection-System">Email-Spoof-Detection-System</a></h4>
-<p><sub><b>Built with:</b> Python</sub></p>
 
-<h4>📁 <a href="https://github.com/hamayl-ali/aws-misconfiguration-scanner">aws-misconfiguration-scanner</a></h4>
-<p><sub><b>Built with:</b> Python</sub></p>
+## 🏅 Certifications & Verified Badges
 
-<h4>📁 <a href="https://github.com/hamayl-ali/Terraform-Security-Linter">Terraform-Security-Linter</a></h4>
-<p><sub><b>Built with:</b> Python</sub></p>
+<div align="center">
 
-<h4>📁 <a href="https://github.com/hamayl-ali/Automated-PowerShell-Incident-Response-System">Automated-PowerShell-Incident-Response-System</a></h4>
-<p><sub><b>Built with:</b> Python</sub></p>
+| Badge | Issuer | Credential |
+|:---:|:---:|:---|
+| ![Microsoft](https://img.shields.io/badge/Microsoft-Defender_XDR_Threat_Protection-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | Microsoft Learn | [View Certificate ↗](https://learn.microsoft.com/en-us/users/hamaylali-6591/achievements/print/ab5zfxg7) |
+| ![Credly](https://img.shields.io/badge/Credly-Cyber_Threat_Management-FF6B00?style=for-the-badge&logo=credly&logoColor=white) | Cisco / Credly | [View Badge ↗](https://www.credly.com/badges/99c141e3-1f9f-4e37-ad94-ce473d197bb2/public_url) |
+| ![Credly](https://img.shields.io/badge/Credly-Network_Defense-FF6B00?style=for-the-badge&logo=credly&logoColor=white) | Cisco / Credly | [View Badge ↗](https://www.credly.com/badges/b200ff46-4d9b-4032-b6d6-42a1f8997c80/public_url) |
 
-<h4>📁 <a href="https://github.com/hamayl-ali/mini_project_for_port_scan">mini_project_for_port_scan</a></h4>
-<p>a port scanner project that will be updated frequently</p>
-<p><sub><b>Built with:</b> Python</sub></p>
+</div>
 
-<h4>📁 <a href="https://github.com/hamayl-ali/Secure-Complaint-Blockchain-System">Secure-Complaint-Blockchain-System</a></h4>
-<p><sub><b>Built with:</b> Python</sub></p>
+<h3 align="left">🚀 Featured Projects</h3>
 
-<h4>📁 <a href="https://github.com/hamayl-ali/Suspicious-PowerShell-Activity-Detector">Suspicious-PowerShell-Activity-Detector</a></h4>
-<p><sub><b>Built with:</b> Python</sub></p>
+<table>
+<tr>
+<td width="50%">
+
+**📁 [Automated PowerShell Incident Response System](https://github.com/hamayl-ali/Automated-PowerShell-Incident-Response-System)**
+SOAR-style pipeline with MITRE ATT&CK-mapped detection and automated remediation
+`Python`
+
+</td>
+<td width="50%">
+
+**📁 [AWS Misconfiguration Scanner](https://github.com/hamayl-ali/aws-misconfiguration-scanner)**
+CIS AWS Foundations Benchmark scanner across S3, IAM, security groups & more
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📁 [Terraform Security Linter](https://github.com/hamayl-ali/Terraform-Security-Linter)**
+Static analysis of `.tf` files for AWS misconfigs with CI/CD gate support
+`Python`
+
+</td>
+<td width="50%">
+
+**📁 [Suspicious PowerShell Activity Detector](https://github.com/hamayl-ali/Suspicious-PowerShell-Activity-Detector)**
+Event ID 4104 parsing with MITRE-mapped detection rules
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📁 [Email Spoof Detection System](https://github.com/hamayl-ali/Email-Spoof-Detection-System)**
+SPF/DKIM/DMARC analysis with domain-similarity and social engineering checks
+`Python`
+
+</td>
+<td width="50%">
+
+**📁 [Secure Complaint Blockchain System](https://github.com/hamayl-ali/Secure-Complaint-Blockchain-System)**
+Blockchain-backed system for tamper-evident complaint records
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📁 [Mini Port Scanner](https://github.com/hamayl-ali/mini_project_for_port_scan)**
+Lightweight port scanner, updated frequently
+`Python`
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake-dark.svg">
@@ -121,3 +176,4 @@
     <img src="https://img.shields.io/badge/Generated%20with-ProfileCrest-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="ProfileCrest" />
   </a>
 </p>
+
