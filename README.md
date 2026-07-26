@@ -104,8 +104,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamayl-ali&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" /><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamayl-ali&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Top Languages" /><br/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamayl-ali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamayl-ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img align="center" src="https://streak-stats.demolab.com/?user=hamayl-ali&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" /><br/>
 </p>
 
