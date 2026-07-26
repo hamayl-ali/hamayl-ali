@@ -96,6 +96,11 @@
 <h4>📁 <a href="https://github.com/hamayl-ali/Suspicious-PowerShell-Activity-Detector">Suspicious-PowerShell-Activity-Detector</a></h4>
 <p><sub><b>Built with:</b> Python</sub></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
