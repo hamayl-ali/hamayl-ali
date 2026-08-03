@@ -86,7 +86,7 @@
 
 </div>
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left"> Featured Projects</h3>
 
 <table>
 <tr>
