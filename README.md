@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hamaylali khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 <a href="https://instagram.com/hamayl_.ali" target="_blank"><img src="https://img.shields.io/badge/Instagram-7aa2f7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.kaggle.com/hamaylalikhan" target="_blank"><img src="https://img.shields.io/badge/Kaggle-7aa2f7?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="https://discord.gg/https://discord.gg/5uFWjtbGC" target="_blank"><img src="https://img.shields.io/badge/Discord-7aa2f7?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
