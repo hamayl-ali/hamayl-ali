@@ -157,15 +157,47 @@ Lightweight port scanner, updated frequently
   <img alt="snake" src="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamayl-ali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamayl-ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img align="center" src="https://streak-stats.demolab.com/?user=hamayl-ali&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="GitHub Streak" /><br/>
+<!-- GitHub Contribution Snake -->
+<h3 align="center">🐍 Contribution Graph</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  </picture>
 </p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamayl-ali&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hamayl-ali&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hamayl-ali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=hamayl-ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+<!-- Activity Graph -->
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamayl-ali&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+
+<!-- 3D Contribution Graph -->
+<h3 align="center">🧊 3D Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/main/profile-3d-contrib/profile-night-rainbow.svg">
+</p>
 <h3 align="left">Random Dev Meme:</h3>
 <img src="https://profile-crest.vercel.app/api/meme" style="height: 400px;" alt="Random meme"/>
 
