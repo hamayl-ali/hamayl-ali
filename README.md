@@ -79,7 +79,7 @@
 <div align="center">
 
 | Badge | Issuer | Credential |
-|:---:|:---:|:---|
+|:---:|:---:|:---:|
 | ![Microsoft](https://img.shields.io/badge/Microsoft-Defender_XDR_Threat_Protection-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | Microsoft Learn | [View Certificate ↗](https://learn.microsoft.com/en-us/users/hamaylali-6591/achievements/print/ab5zfxg7) |
 | ![Credly](https://img.shields.io/badge/Credly-Cyber_Threat_Management-FF6B00?style=for-the-badge&logo=credly&logoColor=white) | Cisco / Credly | [View Badge ↗](https://www.credly.com/badges/99c141e3-1f9f-4e37-ad94-ce473d197bb2/public_url) |
 | ![Credly](https://img.shields.io/badge/Credly-Network_Defense-FF6B00?style=for-the-badge&logo=credly&logoColor=white) | Cisco / Credly | [View Badge ↗](https://www.credly.com/badges/b200ff46-4d9b-4032-b6d6-42a1f8997c80/public_url) |
