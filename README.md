@@ -74,7 +74,7 @@
 
 
 
-## 🏅 Certifications & Verified Badges
+## Certifications & Verified Badges
 
 <div align="center">
 
