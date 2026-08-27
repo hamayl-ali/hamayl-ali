@@ -157,9 +157,6 @@ Lightweight port scanner, updated frequently
   <img alt="snake" src="https://raw.githubusercontent.com/hamayl-ali/hamayl-ali/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<!-- GitHub Stats -->
-
 <!-- GitHub Streak -->
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=hamayl-ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
