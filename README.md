@@ -92,14 +92,14 @@
 <tr>
 <td width="50%">
 
-** [Automated PowerShell Incident Response System](https://github.com/hamayl-ali/Automated-PowerShell-Incident-Response-System)**
+**📁 [Automated PowerShell Incident Response System](https://github.com/hamayl-ali/Automated-PowerShell-Incident-Response-System)**
 SOAR-style pipeline with MITRE ATT&CK-mapped detection and automated remediation
 `Python`
 
 </td>
 <td width="50%">
 
-** [AWS Misconfiguration Scanner](https://github.com/hamayl-ali/aws-misconfiguration-scanner)**
+**📁 [AWS Misconfiguration Scanner](https://github.com/hamayl-ali/aws-misconfiguration-scanner)**
 CIS AWS Foundations Benchmark scanner across S3, IAM, security groups & more
 `Python`
 
