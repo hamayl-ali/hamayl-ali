@@ -158,9 +158,9 @@ Lightweight port scanner, updated frequently
 </picture>
 
 <!-- GitHub Streak -->
-<p align="center">
+<!--<p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=hamayl-ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <!-- 3D Contribution Graph -->
 <h3 align="center">🧊 3D Contribution Graph</h3>
